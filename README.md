@@ -29,5 +29,5 @@ Librairies employées:
 -Lowpower.h
 -Wire.h
 
-dans le téléchargement on trouve le schema fritzing de montage, le programme arduino, le script python pour traiter les données et afficher les courbes des variables, un exemple d affichage python, un échantillon de mes données en fichier csv.
+dans le téléchargement on trouve le schema fritzing de montage, le programme arduino, le script python pour traiter les données et afficher les courbes des variables, un exemple d affichage python, un échantillon de mes données en fichier csv. Il y a aussi deux photo du boitier (le design n'est pas trop optimisé mais bon).
 
