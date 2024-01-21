@@ -8,8 +8,8 @@ Basé sur un microcontroleur arduino (nano), le capteur intègre dans un boitier
 - une horloge externe DS3231.
 - une diode et une résistance 220 ohm.
 - un régulateur de charge 12/24 volts.
-- une batterie 12 volts et 7,2 A/h.
-- un panneau solaire 12 volts et 10W pour alimenter tout ça.
+- une batterie 12 volts et 7,2 A/h. > Après usage, insuffisant. J'ai plutôt opté pour une batterie de voiture de 47 A/h.
+- un panneau solaire 12 volts et 10W pour alimenter tout ça. > Insuffisant également, du coup j'ai doublé le panneau pour alimenter le tout (20W au lieu de 10W).
 
 L'objectif du projet est de collecter des données sur une zone fortement industrialisée, et voir si il y a des liens de corrélation entre les variables temps, particules émises, température, humidité...Et autre comme les données météo.
 
