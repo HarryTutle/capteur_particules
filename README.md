@@ -31,3 +31,8 @@ Librairies employées:
 
 dans le téléchargement on trouve le schema fritzing de montage, le programme arduino, le script python pour traiter les données et afficher les courbes des variables, un exemple d affichage python, un échantillon de mes données en fichier csv. Il y a aussi deux photo du boitier (le design n'est pas trop optimisé mais bon).
 
+Dans le fichier zip vous trouverez principalement:
+
+-Le programme python analyse_particules.py pour lire les données de la carte SD.
+-
+
