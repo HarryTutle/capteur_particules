@@ -34,5 +34,8 @@ dans le téléchargement on trouve le schema fritzing de montage, le programme a
 Dans le fichier zip vous trouverez principalement:
 
 -Le programme python analyse_particules.py pour lire les données de la carte SD.
--
+-Le programme capteur_pollution_6.ino à compiler dans la carte arduino.
+-le schéma fritzing pour brancher et assembler tout ça.
+-Les fichiers csv c'est des échantillons de données collectées chez moi. Il y  a des trous à cause de mon problème de batterie, et un souci d'étanchéité du boitier...Amenant à remplacer des composants un peu noyés.
+-Les fichiers png c'est les photos du montage avec les graphiques et courbes obtenues.
 
